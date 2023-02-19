@@ -3,7 +3,10 @@ A Book Android App made using :( Kotlin ,XML,Volley Library,Fragments ,Lifecycle
 
 # Main Features
 
-1.Volley Library
-2.Fragments and Lifecycles
-3.Favourites
-4.DBA AsyncTask for storing databases on the user's phone
+• Volley Library
+
+• Fragments and Lifecycles
+
+• Favourites
+
+• DBA AsyncTask for storing databases on the user's phone
